@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "ramda": "^0.29.0"
+  },
+  "devDependencies": {
+    "xo": "^0.54.0"
+  }
+}
