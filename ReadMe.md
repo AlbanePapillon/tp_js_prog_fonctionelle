@@ -6,8 +6,8 @@ This Node.js script reads data from a CSV file containing Pokémon information a
 Node.js installed on your machine
 The following dependencies installed:
 * fs: Node.js built-in module (no installation required)
-* ramda: npm install ramda
-* papaparse: npm install papaparse
+* ramda: ` npm install ramda `
+* papaparse: `npm install papaparse`
 
 ## Usage
 
